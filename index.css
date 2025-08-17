@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(185, 255, 102);
+    padding: 2em;
+    height: 600px;
+    width: auto;
+    background-color: #F7EBED;
+    border: 5px groove gray;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+
+.heading{
+    color: blueviolet;
+    text-align: center;
+    font-size: 3em;
+    
+}
+
+div.container{
+    text-align: center;
+}
+
+ul.links{
+    display: inline-block;
+    font-size: 2em;  
+    text-align: left;  
+}

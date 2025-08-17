@@ -1,0 +1,44 @@
+
+body
+{   
+    background-color: #F7EBED;
+    border: 5px groove gray;
+    border-radius: 20px;
+    font-style: italic;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img
+{
+  display: block;
+  width: 350px;;
+  height: 200px;
+  border-radius: 15px;
+  border: 5px solid blueviolet ;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.para{
+  text-align: center;
+  font-size: large;
+}
+
+.heading {
+    text-align: center;
+    font-size: 3em;
+}
+
+.heading,
+.ingredients,
+.steps{
+  color: blueviolet;
+}
+
+ul,ol{
+  font-size: large;
+}
+
+
